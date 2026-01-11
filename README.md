@@ -1,4 +1,4 @@
-php-file-management-system
+
 📁 PHP File Management System
 
 A simple and efficient PHP File Management System that allows users to upload files, store file metadata in a MySQL database, and download files through a user-friendly interface. This project demonstrates core PHP–MySQL integration and basic file handling operations.
