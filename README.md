@@ -103,7 +103,7 @@ C:\xampp\htdocs\
 
 Open in browser:
 
-http://localhost/php-file-management-system/
+http://localhost/file_upload_download/
 
 📊 Database Schema
 
